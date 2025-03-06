@@ -10,4 +10,4 @@ Everything I could find.
 
 Atari 2600<BR />
 My favorite game Dragonfire<BR />
-The game's source code was put into the public domain by developer Bob Smith on May 24, 2003
+The game was put into the public domain by developer Bob Smith on May 24, 2003
