@@ -12,6 +12,6 @@ Atari 2600<BR />
 My favorite game Dragonfire<BR />
 The game was put into the public domain by developer Bob Smith on May 24, 2003
 
-DOS - Windows
-[GOG](https://www.gog.com/en/partner/free_games)
+DOS - Windows<BR />
+[GOG](https://www.gog.com/en/partner/free_games)<BR />
 Some will run on DOSBOX
