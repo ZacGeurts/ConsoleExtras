@@ -14,4 +14,4 @@ The game was put into the public domain by developer Bob Smith on May 24, 2003
 
 PC x86 DOS Gaming<BR />
 [GOG Free](https://www.gog.com/en/partner/free_games)<BR />
-Some will run on DOSBOX or ScummVM. Check the system requirements on the game page.
+Some will run on DOSBOX or ScummVM (Years before 2000). Check the system requirements on the game page.
