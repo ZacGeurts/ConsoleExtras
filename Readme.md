@@ -1,5 +1,6 @@
 *Public domain* software and freely available licenses such as *MIT and Open Source*.<BR />
 I use these with Retroarch but they will work with the stand alone emulators.<BR />
+Why all the italics? Yep.
 <BR />
 
 Atari 2600<BR />
