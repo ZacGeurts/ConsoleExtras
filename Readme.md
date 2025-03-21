@@ -11,7 +11,8 @@ Everything I could find that would run, including *wayback machine* files.
 
 Sharp - X68000<BR />
 BIOS file released to the public by *Sharp*<BR />
-Extract and keep the keropi folder intact. Place inside of *Retroarch/system*<BR />
+Extract and keep the keropi folder intact. Place inside of *retroarch/system*<BR />
+Linux stores in */home/username/.config* or *~/.config*<BR />
 sram.dat is not needed. Should be *retroarch/system/keropi/cgrom.dat (and iplrom.dat)*<BR />
 [Info](https://www.libretro.com/index.php/new-core-px68k-androidioswindowslinuxmac)
 
