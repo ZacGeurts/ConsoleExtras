@@ -7,6 +7,7 @@ Why all the italics? Yep.
 <BR />
 
 Atari 2600<BR />
+<img width="500" height="680" alt="Dragonfire (USA)" src="https://github.com/user-attachments/assets/11ba7390-b0fe-45f4-b389-003a69c0c1e0" /> <BR />
 My favorite game *Dragonfire*<BR />
 The game was put into the public domain by developer *Bob Smith on May 24, 2003*
 
