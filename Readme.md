@@ -23,7 +23,7 @@ sram.dat is not needed. Should be *retroarch/system/keropi/cgrom.dat (and iplrom
 [Info](https://www.libretro.com/index.php/new-core-px68k-androidioswindowslinuxmac)<BR />
 <BR />
 WASM-4<BR />
-https://github.com/ZacGeurts/WASM-4/blob/master/Named_Snaps/Dodgeball.png?raw=true<BR />
+https://github.com/ZacGeurts/WASM-4/blob/master/Named_Snaps/Dodgeball.png<BR />
 Everything I could find.<BR />
 <BR />
 PC x86 DOS Gaming<BR />
