@@ -6,7 +6,7 @@ I use these with Retroarch but they will work with the stand alone emulators.<BR
 Why all the italics? Yep.<BR />
 <BR />
 Atari 2600<BR />
-<img width="500" height="680" alt="Dragonfire (USA)" src="https://github.com/user-attachments/assets/11ba7390-b0fe-45f4-b389-003a69c0c1e0" /><BR />
+<img width="400" height="600" alt="Dragonfire (USA)" src="https://github.com/user-attachments/assets/11ba7390-b0fe-45f4-b389-003a69c0c1e0" /><BR />
 My favorite game *Dragonfire*<BR />
 The game was put into the public domain by developer *Bob Smith on May 24, 2003*<BR />
 <BR />
@@ -23,7 +23,7 @@ sram.dat is not needed. Should be *retroarch/system/keropi/cgrom.dat (and iplrom
 [Info](https://www.libretro.com/index.php/new-core-px68k-androidioswindowslinuxmac)<BR />
 <BR />
 WASM-4<BR />
-https://github.com/ZacGeurts/WASM-4/blob/master/Named_Snaps/Dodgeball.png<BR />
+<img width="360" height="360" alt="Dodgeball" src="https://github.com/user-attachments/assets/cf45e73b-70f1-4864-a22f-8a7c86f82946" /><BR />
 Everything I could find.<BR />
 <BR />
 PC x86 DOS Gaming<BR />
